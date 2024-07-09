@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+min_dalle/__init__.py
+min_dalle/min_dalle.py
+min_dalle/text_tokenizer.py
+min_dalle.egg-info/PKG-INFO
+min_dalle.egg-info/SOURCES.txt
+min_dalle.egg-info/dependency_links.txt
+min_dalle.egg-info/requires.txt
+min_dalle.egg-info/top_level.txt
+min_dalle/models/__init__.py
+min_dalle/models/dalle_bart_decoder.py
+min_dalle/models/dalle_bart_encoder.py
+min_dalle/models/vqgan_detokenizer.py

@@ -1,0 +1,6 @@
+torch>=1.11
+typing_extensions>=4.1
+numpy>=1.21
+pillow>=7.1
+requests>=2.23
+emoji

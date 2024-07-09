@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: min-dalle
+Version: 0.4.11
+Summary: min(DALL·E)
+Home-page: https://github.com/kuprel/min-dalle
+Author: Brett Kuprel
+Author-email: brkuprel@gmail.com
+License: MIT
+Keywords: artificial intelligence,deep learning,text-to-image,pytorch
+License-File: LICENSE
